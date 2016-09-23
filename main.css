@@ -1,0 +1,13 @@
+section {
+  display: inline-block;
+  border-radius: 4px;
+  max-width: 400px;
+  border: 1px solid lightgray;
+}
+
+nav {
+  list-style-type: none;
+}
+nav li {
+  display: inline;
+}
